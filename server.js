@@ -1,16 +1,6 @@
 // Express.js app
-
-<<<<<<< HEAD
-// const CHATBOT_FRONTEND = 'http://project_doctor:8000'
-// const BUDGIE = 'http://budgie-api:5000'
 const CHATBOT_FRONTEND = 'http://localhost:8000'
 const BUDGIE = 'http://localhost:5000'
-=======
-const CHATBOT_FRONTEND = 'http://localhost:8000'
-const BUDGIE = 'http://localhost:5000'
-// const CHATBOT_FRONTEND = 'http://project_doctor:8000'
-// const BUDGIE = 'http://budgie-api:5000'
->>>>>>> 1e959e112d226f62f03f88fb281d4b41ee08b5f7
 const BUDGIE_SOCKET_SERVER_PORT = 3000
 
 const express = require('express');
